@@ -15,5 +15,6 @@ checkmarx:
         incremental: 'false'
         languageMode: 'multi'
         engineVerbose: 'true'
+        filter: '!/test'
       sca:
       kics:
